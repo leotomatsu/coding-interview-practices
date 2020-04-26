@@ -34,7 +34,7 @@ I compiled the material I studied over the past 2 months to prepare for Software
 - Videos
     - [Amazon Interview by Dan Croitor](https://www.youtube.com/watch?v=WEx4HR0FBYQ&list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV)
     - [Facebook Interview by Dan Croitor](https://www.youtube.com/watch?v=xYzcbQ8iRps&list=PLLucmoeZjtMQwITifg_mEGz6W5H6mbDwJ)
-    - [Netflix Interview by Dan Croitor](youtube.com/watch?v=YBCIlDpNUGo&list=PLLucmoeZjtMSl5kTg7IjPkVGy7kUEbqsG)
+    - [Netflix Interview by Dan Croitor](https://www.youtube.com/watch?v=YBCIlDpNUGo&list=PLLucmoeZjtMSl5kTg7IjPkVGy7kUEbqsG)
 - My questions
     - Please see [behavior_questions.txt](behavior_questions.txt) in the repository for example behavioral questions I complied. I did not provide answers to these questions for privacy reasons.
     - Please see [ask_interviewer.txt](ask_interviewer.txt) in the repository for example questions to ask the interview.
