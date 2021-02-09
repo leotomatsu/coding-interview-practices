@@ -19,6 +19,15 @@ I compiled the material I studied over the past 2 months to prepare for Software
         - ~100 questions (10 easy/70 medium/20 hard)
 - My questions/answers
     - Please see the jupyter notebook pages contained in this repository for coding interview questions with explanations on algorithm, time complexity, and space compleixty.
+- Whiteboard Coding Interview approach
+    - I thought it was important to mention on how you should approach answering questions in whiteboard interview questions. I have listed the generalized steps below:
+        1. Repeat: make sure you do understand the problem.
+        2. Example: get insights by doing examples 
+        3. Approach: come up with your approach(es) to the problem (brute force first)
+        4. Code: write the code for your chosen approach
+        5. Testing: pass the testcases
+        6. Optimize: optimize the complexities (time and space) of your algorithm
+    - Here's a good Youtube video that talks about this approach. [FullStack Academy](https://www.youtube.com/watch?v=DIR_rxusO8Q&)
 
 
 ## System Design
